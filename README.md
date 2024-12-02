@@ -14,7 +14,7 @@ I developed a comprehensive project in Excel, creating multiple dashboard and ta
 2.	Which are the top 5 products and top-performing states?
 3.	How do sales vary by region and customer segment?
 4.	What is the performance of product subcategories over the years?
-5.	Dashboard Intercation. <a href= "https://github.com/riyasingh2005/Vrinda-Store-Data-Analysis-Interactive-Dashboard-creation-using-MS-Excel-/blob/main/Vrinda%20Store%20Data%20ANalysis%20Dashboard%20Image.png">View Dashboard</a>
+5.	Dashboard Intercation. <a href= "https://github.com/riyasingh2005/Unified-Corp.-Sales-Data-Analysis-and-Forecasting-Dashboard-using-MS-Excel/blob/main/Sales%20Forecasting%20Dashboard%20Images.png">View Dashboard</a>
 
 ## Process
 1.	Data Cleaning: Removed inconsistencies and prepared data using PivotTables.
