@@ -7,7 +7,7 @@ I developed a comprehensive project in Excel, creating multiple dashboard and ta
 - Evaluate sales across customer segments for optimization.
 
 ## Dataset Used
-<a href= "https://github.com/riyasingh2005/Unified-Corp.-Sales-Data-Analysis-and-Forecasting-Dashboard-using-MS-Excel/blob/main/Vrinda%20Store%20Excel%20Sheet.xlsx">Dataset</a>
+<a href= "https://github.com/riyasingh2005/Unified-Corp.-Sales-Data-Analysis-and-Forecasting-Dashboard-using-MS-Excel/blob/main/Sales%20Excel%20Datasheet.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 1.	What are the sales trends from 2020 to 2025?
